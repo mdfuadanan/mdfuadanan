@@ -84,7 +84,7 @@
 
 <p align="left">
   <a href="mailto:mdfuadanan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mdfuadanangmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mdfuadanan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://facebook.com/mdfuadanan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Md_Fuad_Anan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
