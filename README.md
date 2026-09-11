@@ -1,7 +1,7 @@
 # Hi there, I'm Md Fuad Anan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Passionate+about+Software+%26+Circuits;Exploring+Computer+Architecture+%26+Systems;Algorithms+%26+Data+Structures+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Passionate+about+Software+%26+Circuits;Exploring+Computer+Architecture+%26+Systems;Digital+Logic+%26+Hardware+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science & Engineering** undergraduate student at the **[University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/)**.
-- 💡 Deeply curious about how **software meets hardware** — from low-level circuit design and computer architecture to high-level algorithmic systems.
-- 🎯 **Current Focus:** Academic coursework, algorithms, systems design, and hands-on lab projects.
-- 🌱 Actively exploring **Computer Architecture**, **Data Structures & Algorithms**, and **Systems Programming**.
+- 💡 Deeply curious about how **software meets hardware** — from low-level circuit design and computer architecture to high-level system implementations.
+- 🎯 **Current Focus:** Academic coursework, circuit analysis, systems design, and hands-on lab projects.
+- 🌱 Actively exploring **Computer Architecture**, **Digital Logic & Circuits**, and **Systems Programming**.
 
 ---
 
@@ -36,16 +36,16 @@
 **Core Competencies & Interests:**
 <p align="left">
   <img src="https://img.shields.io/badge/Computer_Architecture-4B0082?style=for-the-badge&logo=microchip&logoColor=white" alt="Computer Architecture" />
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-2E86DE?style=for-the-badge&logo=thealgorithms&logoColor=white" alt="DSA" />
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-27AE60?style=for-the-badge&logo=codewars&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/Circuits_%26_Logic_Design-E67E22?style=for-the-badge&logo=electronicarts&logoColor=white" alt="Logic Design" />
 </p>
 
 **Tools & Environments:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/Code::Blocks-00599C?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ---
