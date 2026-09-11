@@ -67,7 +67,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mdfuadanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mdfuadanan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdfuadanan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdfuadanan&layout=compact&theme=tokyonight&hide_border=true&hide=f%23" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
