@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mdfuadanan">
+  <a href="https://github.com/mdfuadanan?tab=followers">
     <img src="https://img.shields.io/github/followers/mdfuadanan?label=Followers&style=for-the-badge&logo=github&color=24292e" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/mdfuadanan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/mdfuadanan?label=Total%20Stars&style=for-the-badge&logo=apachespark&color=f39c12" alt="Total Stars" />
+  <a href="https://github.com/mdfuadanan?tab=stars">
+    <img src="https://img.shields.io/github/stars/mdfuadanan?label=Starred&style=for-the-badge&logo=github&color=f39c12" alt="Starred Repositories" />
   </a>
 </p>
 
