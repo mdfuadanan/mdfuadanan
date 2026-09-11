@@ -1,7 +1,7 @@
 # Hi there, I'm Md Fuad Anan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Passionate+about+Software+%26+Circuits;Exploring+Computer+Architecture+%26+Systems;Digital+Logic+%26+Hardware+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Computer+Hardware+%26+Software;Robotics+%26+Circuits+Enthusiast;Game+%26+VR+Games+Enthusiast;Exploring+Computer+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science & Engineering** undergraduate student at the **[University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/)**.
-- 💡 Deeply curious about how **software meets hardware** — from low-level circuit design and computer architecture to high-level system implementations.
+- 💡 Deeply curious about how **computer hardware & software** interact — from circuits, computer architecture, and robotics to game and VR development.
 - 🎯 **Current Focus:** Academic coursework, circuit analysis, systems design, and hands-on lab projects.
-- 🌱 Actively exploring **Computer Architecture**, **Digital Logic & Circuits**, and **Systems Programming**.
+- 🌱 Actively exploring **Computer Architecture**, **Robotics**, **Game Dev & VR**, and **Circuits & Logic Design**.
 
 ---
 
@@ -35,8 +35,12 @@
 
 **Core Competencies & Interests:**
 <p align="left">
+  <img src="https://img.shields.io/badge/Computer_Hardware_%26_Software-16A085?style=for-the-badge&logo=intel&logoColor=white" alt="Computer Hardware & Software" />
   <img src="https://img.shields.io/badge/Computer_Architecture-4B0082?style=for-the-badge&logo=microchip&logoColor=white" alt="Computer Architecture" />
   <img src="https://img.shields.io/badge/Circuits_%26_Logic_Design-E67E22?style=for-the-badge&logo=electronicarts&logoColor=white" alt="Logic Design" />
+  <img src="https://img.shields.io/badge/Robotics-E67E22?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics" />
+  <img src="https://img.shields.io/badge/Game_Development-E74C3C?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
+  <img src="https://img.shields.io/badge/VR_Games-8E44AD?style=for-the-badge&logo=oculus&logoColor=white" alt="VR Games" />
 </p>
 
 **Tools & Environments:**
