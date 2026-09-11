@@ -30,6 +30,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/VHDL-5C768D?style=for-the-badge&logo=microchip&logoColor=white" alt="VHDL" />
   <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" alt="F#" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
@@ -83,7 +84,7 @@
   <a href="mailto:mdfuadanan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/mdfuadanan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mdfuadanan" target="_blank">
