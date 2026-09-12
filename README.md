@@ -50,9 +50,13 @@
 **Tools & Environments:**
 <p align="left">
   <img src="https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="Apache NetBeans" />
+  <img src="https://img.shields.io/badge/CircuitVerse-42B883?style=for-the-badge&logo=circuitverse&logoColor=white" alt="CircuitVerse" />
   <img src="https://img.shields.io/badge/Code::Blocks-00599C?style=for-the-badge&logo=codeblocks&logoColor=white" alt="Code::Blocks" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Logisim-C0392B?style=for-the-badge&logo=logisim&logoColor=white" alt="Logisim" />
+  <img src="https://img.shields.io/badge/Schematics-0052CC?style=for-the-badge&logo=schematics&logoColor=white" alt="Schematics" />
+  <img src="https://img.shields.io/badge/Tinkercad-1477D1?style=for-the-badge&logo=tinkercad&logoColor=white" alt="Tinkercad" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
