@@ -1,7 +1,7 @@
 # Hi there, I'm Md Fuad Anan 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Computer+Hardware+%26+Software;Robotics+%26+Circuits+Enthusiast;Game+%26+VR+Games+Enthusiast;Exploring+Computer+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E86DE&center=true&vCenter=true&width=550&lines=CSE+Student+%40+ULAB;Computer+Hardware+%26+Software;AI+Models+%26+Automation;Robotics+%26+Game+Development;VR+Games+%26+Computer+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Computer Science & Engineering** undergraduate student at the **[University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/)**.
-- 💡 Deeply curious about how **computer hardware & software** interact — from circuits, computer architecture, and robotics to game and VR development.
-- 🎯 **Current Focus:** Academic coursework, circuit analysis, systems design, and hands-on lab projects.
-- 🌱 Actively exploring **Computer Architecture**, **Robotics**, **Game Dev & VR**, and **Circuits & Logic Design**.
+- 💡 Deeply curious about how **computer hardware & software** interact — from computer architecture, circuits, and robotics to AI models, automation, and game/VR development.
+- 🎯 **Current Focus:** Academic coursework, AI models, automation, circuit analysis, systems design, and hands-on lab projects.
+- 🌱 Actively exploring **AI Models & Automation**, **Computer Architecture**, **Robotics**, and **Hardware & Circuits**.
 
 ---
 
@@ -30,12 +30,16 @@
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/VHDL-5C768D?style=for-the-badge&logo=microchip&logoColor=white" alt="VHDL" />
 </p>
 
 **Core Competencies & Interests:**
 <p align="left">
   <img src="https://img.shields.io/badge/Computer_Hardware_%26_Software-16A085?style=for-the-badge&logo=intel&logoColor=white" alt="Computer Hardware & Software" />
+  <img src="https://img.shields.io/badge/AI_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Models" />
+  <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge&logo=ansible&logoColor=white" alt="Automation" />
   <img src="https://img.shields.io/badge/Computer_Architecture-4B0082?style=for-the-badge&logo=microchip&logoColor=white" alt="Computer Architecture" />
   <img src="https://img.shields.io/badge/Circuits_%26_Logic_Design-E67E22?style=for-the-badge&logo=electronicarts&logoColor=white" alt="Logic Design" />
   <img src="https://img.shields.io/badge/Robotics-E67E22?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics" />
@@ -85,6 +89,9 @@
 <p align="left">
   <a href="mailto:mdfuadanan@gmail.com">
     <img src="https://img.shields.io/badge/Email-mdfuadanan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801945054007" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B8801945054007-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://facebook.com/mdfuadanan" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Md_Fuad_Anan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
