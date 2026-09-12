@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Computer Science & Engineering** undergraduate student at the **[University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/)**.
+- 🎓 **Computer Science & Engineering** undergraduate student at the **[University of Liberal Arts Bangladesh (ULAB)](https://ulab.edu.bd/)** (Student ID: `251014032`).
 - 💡 Deeply curious about how **computer hardware & software** interact — from computer architecture, circuits, and robotics to AI models, automation, and game/VR development.
 - 🎯 **Current Focus:** Academic coursework, AI models, automation, circuit analysis, systems design, and hands-on lab projects.
 - 🌱 Actively exploring **AI Models & Automation**, **Computer Architecture**, **Robotics**, and **Hardware & Circuits**.
@@ -75,7 +75,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=mdfuadanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="mdfuadanan's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdfuadanan&layout=compact&theme=tokyonight&hide_border=true&hide=f%23" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mdfuadanan&layout=compact&theme=tokyonight&hide_border=true&hide=f%23,stata,batchfile" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
