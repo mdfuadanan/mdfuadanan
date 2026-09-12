@@ -37,13 +37,13 @@
 
 **Core Competencies & Interests:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Computer_Hardware_%26_Software-16A085?style=for-the-badge&logo=intel&logoColor=white" alt="Computer Hardware & Software" />
   <img src="https://img.shields.io/badge/AI_Models-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI Models" />
   <img src="https://img.shields.io/badge/Automation-0052CC?style=for-the-badge&logo=ansible&logoColor=white" alt="Automation" />
+  <img src="https://img.shields.io/badge/Computer_Hardware_%26_Software-16A085?style=for-the-badge&logo=intel&logoColor=white" alt="Computer Hardware & Software" />
   <img src="https://img.shields.io/badge/Computer_Architecture-4B0082?style=for-the-badge&logo=microchip&logoColor=white" alt="Computer Architecture" />
+  <img src="https://img.shields.io/badge/Game_Development-E74C3C?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
   <img src="https://img.shields.io/badge/Circuits_%26_Logic_Design-E67E22?style=for-the-badge&logo=electronicarts&logoColor=white" alt="Logic Design" />
   <img src="https://img.shields.io/badge/Robotics-E67E22?style=for-the-badge&logo=robotframework&logoColor=white" alt="Robotics" />
-  <img src="https://img.shields.io/badge/Game_Development-E74C3C?style=for-the-badge&logo=unity&logoColor=white" alt="Game Development" />
   <img src="https://img.shields.io/badge/VR_Games-8E44AD?style=for-the-badge&logo=oculus&logoColor=white" alt="VR Games" />
 </p>
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 📬 Connect With Me
+### 📬 Contract Me
 
 <p align="left">
   <a href="mailto:mdfuadanan@gmail.com">
