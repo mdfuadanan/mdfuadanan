@@ -32,6 +32,7 @@
 #### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -69,9 +70,11 @@
 
 | Project | Tech | Description |
 | :--- | :---: | :--- |
+| 📚 **[PDF Book Reader](https://github.com/mdfuadanan/PDF-Book-Reader)** | `Java, JavaFX, CSS` | Desktop PDF reader & library manager supporting local files and Google Drive cloud integration. |
 | 💻 **[VBC-1](https://github.com/mdfuadanan/VBC-1)** | `VHDL` | A **Very Basic Computer** architecture and simulator exploring instruction sets and processor microarchitecture. |
+| ⚡ **[VBC-1E](https://github.com/mdfuadanan/VBC-1E)** | `Architecture` | Extended Version of Very Basic Computer (VBC-1E) exploring instruction set expansion and CPU organization. |
+| 🏦 **[Central Banking System](https://github.com/mdfuadanan/Central-Banking-System)** | `CSS, HTML, Java` | Comprehensive Central Banking Simulator designed to model central bank workflows, liquidity, and operations. |
 | 🗺️ **[Disaster Relief Route & Supply Planning](https://github.com/mdfuadanan/Disaster-Relief-Route-and-Supply-Planning-System)** | `Java` | Algorithmic routing and supply dispatch system optimizing emergency relief logistics. |
-| 🏦 **[Central Banking System](https://github.com/mdfuadanan/Central-Banking-System)** | `Css, Html, Java` | Comprehensive Central Banking Simulator designed to model central bank workflows, liquidity, and operations. |
 | 🏨 **[Hostel Management System](https://github.com/mdfuadanan/Hostel-Management-System)** | `Java` | Room allocation and tenant record management built using core OOP design principles. |
 | 📍 **[Navigation System](https://github.com/mdfuadanan/Navigation-System)** | `C` | Graph-based navigation engine finding shortest paths using Breadth-First Search (BFS). |
 | 📦 **[Inventory Management System](https://github.com/mdfuadanan/Inventory-Management-System)** | `C` | Dual-version inventory tracker evaluating data structures and operational efficiency. |
