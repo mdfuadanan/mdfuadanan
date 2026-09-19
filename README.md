@@ -72,7 +72,7 @@
 | :--- | :---: | :--- |
 | 📚 **[PDF Book Reader](https://github.com/mdfuadanan/PDF-Book-Reader)** | `Java, JavaFX, CSS` | Desktop PDF reader & library manager supporting local files and Google Drive cloud integration. |
 | 💻 **[VBC-1](https://github.com/mdfuadanan/VBC-1)** | `VHDL` | A **Very Basic Computer** architecture and simulator exploring instruction sets and processor microarchitecture. |
-| ⚡ **[VBC-1E](https://github.com/mdfuadanan/VBC-1E)** | `Architecture` | Extended Version of Very Basic Computer (VBC-1E) exploring instruction set expansion and CPU organization. |
+| ⚡ **[VBC-1E](https://github.com/mdfuadanan/VBC-1E)** | `VHDL` | Extended Version of Very Basic Computer (VBC-1E) exploring instruction set expansion and CPU organization. |
 | 🏦 **[Central Banking System](https://github.com/mdfuadanan/Central-Banking-System)** | `CSS, HTML, Java` | Comprehensive Central Banking Simulator designed to model central bank workflows, liquidity, and operations. |
 | 🗺️ **[Disaster Relief Route & Supply Planning](https://github.com/mdfuadanan/Disaster-Relief-Route-and-Supply-Planning-System)** | `Java` | Algorithmic routing and supply dispatch system optimizing emergency relief logistics. |
 | 🏨 **[Hostel Management System](https://github.com/mdfuadanan/Hostel-Management-System)** | `Java` | Room allocation and tenant record management built using core OOP design principles. |
